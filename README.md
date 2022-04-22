@@ -1,7 +1,7 @@
 [![MasterHead](https://images.app.goo.gl/hcPZCN3r98wj8oSg7)]
 <h1 align="center">Hi 👋, I'm ATUL SINGH</h1>
 <h3 align="center">A PASSIONATE LEARNER</h3>
-(img align="right"alt="coding"widht="400"src="https://www.google.com/imgres?imgurl=https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif&imgrefurl=https://medium.com/swlh/what-is-programming-d5aa8fb0f280&tbnid=KAywifT46CGFXM&vet=1&docid=Q2g3c3EZrHGocM&w=680&h=428&itg=1&hl=en-GB&source=sh/x/im")
+(img align="right"alt="coding"widht="400"src="https://images.app.goo.gl/hcPZCN3r98wj8oSg7")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulsingh20&label=Profile%20views&color=0e75b6&style=flat" alt="atulsingh20" /> </p>
