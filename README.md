@@ -1,7 +1,7 @@
 [![MasterHead](https://images.app.goo.gl/hcPZCN3r98wj8oSg7)]
 <h1 align="center">Hi 👋, I'm ATUL SINGH</h1>
 <h3 align="center">A PASSIONATE LEARNER</h3>
-(img align="right"alt="coding"widht="400"src="https://images.app.goo.gl/hcPZCN3r98wj8oSg7")
+(img align="right"alt="coding"widht="400" src="https://images.app.goo.gl/RQXQsDuDp5PE3Ds4A")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulsingh20&label=Profile%20views&color=0e75b6&style=flat" alt="atulsingh20" /> </p>
