@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/-0ZlaStNWvwAAAAC/magic-magical.gif)]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/34220e95746151.5e9ecde696cb0.gif)]
 <h1 align="center">Hi 👋, I'm ATUL SINGH</h1>
 <h3 align="center">A PASSIONATE LEARNER</h3>
 <img align="right" alt="Coding" Width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
